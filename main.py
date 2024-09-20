@@ -21,6 +21,7 @@ def script(url):
             except Exception as e:
                 print(e)
                 continue
+
             
 if __name__ == '__main__':
     url = 'https://www.books4people.co.uk/collections/product-0-to-5'
